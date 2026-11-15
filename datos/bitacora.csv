@@ -1,0 +1,43 @@
+momento,medio,url,metodo,noticias,estado,mensaje
+2026-11-15 00:50:10,ABI,https://abi.bo/feed/,rss,10,leido,NA
+2026-11-15 00:50:12,Opinion,https://www.opinion.com.bo/rss,rss,20,leido,NA
+2026-11-15 00:50:14,El Deber,https://eldeber.com.bo/feed/,rss,25,leido,NA
+2026-11-15 00:50:16,La Razon,https://www.la-razon.com/feed/,rss,10,leido,NA
+2026-11-15 00:55:11,(todas),-,clasificacion,65,ok,9 sin tema
+2026-11-15 01:11:35,(todas),-,clasificacion,65,ok,20 sin tema
+2026-11-15 01:16:09,(todas),-,grafo PageRank/HITS,34,ok,73 enlaces entre dominios
+2026-11-15 01:35:46,ABI,https://abi.bo/feed/,rss,10,leido,NA
+2026-11-15 01:35:48,Opinion,https://www.opinion.com.bo/rss,rss,20,leido,NA
+2026-11-15 01:35:57,El Deber,https://eldeber.com.bo/feed/,rss,25,leido,NA
+2026-11-15 01:35:59,La Razon,https://www.la-razon.com/feed/,rss,10,leido,NA
+2026-11-15 01:36:18,(todas),-,clasificacion,65,ok,20 sin tema
+2026-11-15 01:38:38,(chat),-,consulta,6,ok,lo último de clima
+2026-11-15 01:38:54,ABI,https://abi.bo/feed/,rss,10,leido,NA
+2026-11-15 01:38:56,Opinion,https://www.opinion.com.bo/rss,rss,20,leido,NA
+2026-11-15 01:38:57,El Deber,https://eldeber.com.bo/feed/,rss,25,leido,NA
+2026-11-15 01:38:59,La Razon,https://www.la-razon.com/feed/,rss,10,leido,NA
+2026-11-15 01:39:11,(chat),-,consulta,12,ok,accidentes de auto
+2026-11-15 01:43:06,(chat),-,consulta,5,ok,lo último de cultura
+2026-11-15 01:44:39,(chat),-,consulta,6,ok,upea
+2026-11-15 01:45:21,(chat),-,consulta,6,ok,umsa
+2026-11-15 01:45:31,(chat),-,consulta,6,ok,clima
+2026-11-15 01:54:28,(chat),-,consulta,9,ok,quiero noticias  solo de escolares
+2026-11-15 01:55:08,(chat),-,consulta,9,ok,sobre oruro clima
+2026-11-15 02:48:38,(chat),-,consulta,4,ok,lo último de deportes
+2026-11-15 03:44:53,(chat),-,consulta,4,ok,lo último de deportes
+2026-11-15 10:01:10,El Deber,https://eldeber.com.bo/feed/,rss,25,leido,NA
+2026-11-15 10:01:11,Opinion,https://www.opinion.com.bo/rss,rss,20,leido,NA
+2026-11-15 10:01:14,La Razon,https://www.la-razon.com/feed/,rss,10,leido,NA
+2026-11-15 10:01:17,ABI,https://abi.bo/feed/,rss,10,leido,NA
+2026-11-15 10:01:20,Brujula Digital,https://brujuladigital.net/rss.xml,rss,30,leido,NA
+2026-11-15 10:01:30,Erbol,https://erbol.com.bo/rss.xml,rss,4,leido,NA
+2026-11-15 10:01:31,Red Uno,https://www.reduno.com.bo/rss,rss,25,leido,NA
+2026-11-15 10:01:33,eju.tv,https://eju.tv/feed/,rss,4,leido,NA
+2026-11-15 10:01:34,Urgente.bo,https://www.urgente.bo/rss.xml,rss,10,leido,NA
+2026-11-15 10:01:37,Panamericana,https://panamericana.bo/rss,rss,30,leido,NA
+2026-11-15 10:01:39,Los Tiempos,https://www.lostiempos.com/,crawling,55,leido,NA
+2026-11-15 10:01:40,Correo del Sur,https://correodelsur.com/,crawling,0,sin noticias,NA
+2026-11-15 10:01:42,Unitel,https://unitel.bo/,crawling,48,leido,NA
+2026-11-15 10:01:44,Vision 360,https://www.vision360.bo/,crawling,51,leido,NA
+2026-11-15 10:01:50,SENAMHI,https://www.senamhi.gob.bo/,crawling,7,leido,NA
+2026-11-15 10:02:25,(chat),-,consulta,22,ok,lo último de política
